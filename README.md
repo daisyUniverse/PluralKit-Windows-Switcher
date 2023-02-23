@@ -41,3 +41,7 @@ After everything is in place it should all be good to go, but you're going to wa
  Repeat this step for each alter you want to be able to use, and then customize them to however you each see fit
 
 
+Note that this is very much a personal system that I am sharing mainly to cut down on the work someone else might have to do to create a similar setup, but I do not
+intend on packaging this cleanly and automating the setup unless there is a demand for it ( there won't be )
+
+if you need help, feel free to email me at mail@robinuniver.se
