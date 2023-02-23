@@ -1,4 +1,4 @@
-# Startup Script for G218RU
+# Startup Script for PK-WS
 # Robin Universe [T]
 # 02 . 17 . 23
 
